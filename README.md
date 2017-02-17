@@ -10,3 +10,4 @@
 ## Task 1
 1. [Linux Command Line Basics] (https://github.com/Therrance/kottans_web_test/blob/master/task_1/linux_1.png)
 2. [Configuring Linux Web Servers] (https://github.com/Therrance/kottans_web_test/blob/master/task_1/0ddab0dbb8.jpg)
+2. [Networking for Web Developers] (https://github.com/Therrance/kottans_web_test/blob/master/task_1/d4e947b02c.jpg) 
